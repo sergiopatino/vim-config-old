@@ -7,10 +7,10 @@ return {
 	},
 
 	-- Waka Time coding tracker plugin
-	{
-		"wakatime/vim-wakatime",
-		lazy = false,
-	},
+	-- #{
+	-- #	"wakatime/vim-wakatime",
+	-- #	lazy = false,
+	-- #},
 
 	-- Change bufferline options
 	{
